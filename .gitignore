@@ -10,3 +10,4 @@ waf3-*-*/
 .project
 .buildpath
 .settings/*
+/vendor/
